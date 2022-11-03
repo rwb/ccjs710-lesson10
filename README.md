@@ -1,4 +1,4 @@
-### Lesson 10 - Thursday 11/4/21
+### Lesson 10 - Thursday 11/3/22
 
 * For tonight's class, we turn to the issue of unbounded event count data.
 * A good deal of criminological data takes the form of event counts so we will spend some time on this topic.
