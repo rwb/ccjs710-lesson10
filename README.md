@@ -1,6 +1,7 @@
 ### Lesson 10 - Thursday 11/3/22
 
 * For tonight's class, we turn to the issue of unbounded event count data.
+* Here is a foundational [reading](https://gking.harvard.edu/files/ISQ33.pdf).
 * A good deal of criminological data takes the form of event counts so we will spend some time on this topic.
 * Let's begin by reading in tonight's data set which consists of a continuous independent variable, *x*, a binary independent variable, *z*, and an unbounded event count outcome, *y*.
 * Here is an exploratory data analysis:
